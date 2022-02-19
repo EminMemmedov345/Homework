@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\..\\New folder (2)\\Html2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Html"
+  }
+}
